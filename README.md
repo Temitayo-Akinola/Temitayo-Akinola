@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I am a multidisciplinary problem-solver with a background in **Civil Engineering** and growing expertise in **Data Analysis** and **Data Engineering**.
+I am a multidisciplinary problem solver with a background in **Civil Engineering** and growing expertise in **Data Analysis** and **Data Engineering**.
 
 My mission is to bridge the gap between engineering and data by using tools like **Python**, **SQL**, **Excel**, and **Power BI** to explore data, generate insights, and build meaningful solutions.
 

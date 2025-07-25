@@ -1,6 +1,6 @@
 # Temitayo Akinola (TEMI)
 
-🎓 Aspiring Data Analyst | Data Engineer | Civil Engineer  
+🎓 Data Analyst | Data Engineer | Civil Engineer  
 🌍 Passionate about transforming data into actionable insights that solve real-world problems.
 
 ---

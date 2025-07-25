@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Temitayo Akinola (TEMI)
+# Temitayo Akinola (TEMI)
 
 🎓 Aspiring Data Analyst | Data Engineer | Civil Engineer  
 🌍 Passionate about transforming data into actionable insights that solve real-world problems.
